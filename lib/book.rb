@@ -3,7 +3,7 @@ class Book
   attr_reader :title
 
   GENRE = []
-  
+
   def initialize(title)
     @title = title
   end
